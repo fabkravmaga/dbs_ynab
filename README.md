@@ -1,2 +1,2 @@
-# dbs_ynab
-Transform DBS CSV to YNAB format
+# ynab-integration
+Transform data to YNAB format
